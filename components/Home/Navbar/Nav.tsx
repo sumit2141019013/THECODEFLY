@@ -42,7 +42,7 @@ const Nav = ({openNav}:props) => {
         </div>
         <div className='flex items-center space-x-4'>
           <button className='md:px-10 md:py-2 px-8 py-1.5 text-white font-semibold text-base bg-pink-700 hover:bg-pink-900 
-          transition-all duration-200 rounded-lg'>SignUp Now</button>
+          transition-all duration-200 rounded-lg '>SignUp</button>
           <HiBars3BottomRight onClick={openNav} className='w-8 h-8 cursor-pointer text-black lg:hidden overflow-hidden ' />
         </div>
       </div>
