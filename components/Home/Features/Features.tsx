@@ -32,7 +32,7 @@ const Features = () => {
                     <div className='mt-8 mb-6'>
                         <h1 className='text-lg md:text-2xl text-black/70  font-semibold'>
                         Transforming Curiosity into Capability                        </h1>
-                        <p className='text-sm md:text-base text-black/70 mt-4'>This focuses on turning learners' interest into real skills, showcasing the platform as a bridge between curiosity and practical knowledge.
+                        <p className='text-sm md:text-base text-black/70 mt-4'>This focuses on turning learners interest into real skills, showcasing the platform as a bridge between curiosity and practical knowledge.
                         </p>
                     </div>
             </div>

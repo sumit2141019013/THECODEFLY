@@ -2,7 +2,7 @@
 import React from 'react'
 import Tilt from "react-parallax-tilt"
 import Image from "next/image"
-import { FaFile, FaStar, FaUser } from 'react-icons/fa';
+import { FaFile, FaStar} from 'react-icons/fa';
 import { FaUserGroup } from 'react-icons/fa6';
 
 type props = {

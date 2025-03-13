@@ -7,7 +7,6 @@ import Features  from './Features/Features';
 import Review from "./Review/Review";
 import Article from "./Article/Article";
 
-import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const HomePage = () => {

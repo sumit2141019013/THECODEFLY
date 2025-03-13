@@ -14,7 +14,7 @@ const Review = () => {
            <h1 className='text-xl text-black font-semibold'>Students Feedback</h1>
          </div>
          <h1 className='text-2xl md:text-3xl lg:text-5xl mt-8 font-bold md:leading-[3rem] lg:leading-[3.3rem] xl:leading-[3.6rem] text-white'>Trusted by genius people.</h1>
-           <p className='text-base text-white/50 mt-6'>This highlights the platform's flexibility, allowing learners to access courses whenever and wherever they want, making education more accessible</p>
+           <p className='text-base text-white/50 mt-6'>This highlights the platform flexibility, allowing learners to access courses whenever and wherever they want, making education more accessible</p>
            <div className='items-center flex space-x-10 mt-8'>
             <p className='text-white font-bold text-5xl'> 99%</p>
             <p className='text-white'>Students Completed <br/> Course Successfully.</p>
@@ -26,6 +26,6 @@ const Review = () => {
     </div>
     </div>
   )
-}
+}   
 
 export default Review
