@@ -1,7 +1,7 @@
 'use client';
 import React, { useState } from 'react';
-import Mobilenav from './Mobilenav';
 import Nav from "./Nav";
+import Mobilenav from './Mobilenav';
 
 const ResponsiveNav = () => {
   const [showNav, setShowNav] = useState(false);
