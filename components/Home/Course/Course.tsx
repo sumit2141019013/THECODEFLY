@@ -11,7 +11,7 @@ const Course = () => {
         
         <div className='md:mt-16 mt-10 grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-10'>
           {coursesData.map((course,i) => (
-            <div key={course.id} data-aos="fade-right" data-aos-achor-placement="top-center" data-aos-delay={`${i*150}`}>
+            <div key={course.id} data-aos="fade-right" data-aos-achor-placement="top-center" data-aos-delay={`${i*100}`}>
               <CourseCard course={course} />
             </div>
           ))}
